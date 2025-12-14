@@ -48,10 +48,10 @@ Try the application live on **Hugging Face Spaces**:
 ```bash
 research-paper-simplifier-transformer/
 │
-├── app.py                                  # The main application script (Deployment ready)
-├── research_paper_simplifier_transformer.ipynb # Original Colab development notebook
-├── requirements.txt                        # Dependencies list
-├── README.md                               # Project documentation
+├── app.py                                         # The main application script (Deployment ready)
+├── research_paper_simplifier_transformer.ipynb    # Original Colab development notebook
+├── requirements.txt                               # Dependencies list
+├── README.md                                      # Project documentation
 │
 ├── Paper/                                  # Sample research papers for testing
 │   └── attention_is_all_you_need.pdf
