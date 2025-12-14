@@ -1,0 +1,6 @@
+transformers
+torch
+gradio
+PyPDF2
+sentencepiece
+accelerate
