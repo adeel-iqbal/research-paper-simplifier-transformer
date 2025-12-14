@@ -1,4 +1,4 @@
-# Research Paper Simplifier - Transformer 🤖
+# The Jargon Buster - Research Paper Simplifier 🤖
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/YOUR_USERNAME/Jargon-Buster-Bot)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
